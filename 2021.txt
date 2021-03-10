@@ -1,7 +1,10 @@
 Breakdown Target Kerja Tahun 2021 
 
 Maret 
-- Integrasi SIKD (untuk bulkdata dan add people)
+- Integrasi SIKD bulkdata tarik_pegawai (done)
+- Integrasi SIKD add people
 - Implementasi SSO menggunakan keycloak
 - Tambah buat dokumentasi SIKD (document API dan perubahan/update integrasi)
 - Tambah dokumentasi SSO (dokumentasi tool dan library)
+- Refresh lagi tentang Subversion git dan github
+
